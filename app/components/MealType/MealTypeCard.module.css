@@ -1,0 +1,31 @@
+.mealCard {
+  position: relative;
+  overflow: hidden;
+}
+
+.mealImage {
+  filter: brightness(50%);
+  transition: filter 0.3s;
+}
+
+.mealText {
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+
+.mealBorder {
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+
+.mealCard:hover .mealImage {
+  filter: brightness(100%);
+}
+
+.mealCard:hover .mealText {
+  opacity: 0;
+}
+
+.mealCard:hover .mealBorder {
+  opacity: 0;
+}

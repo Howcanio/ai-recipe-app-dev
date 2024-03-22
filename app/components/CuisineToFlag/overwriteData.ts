@@ -1,0 +1,18 @@
+export const overwriteData = [
+  { code: 'IT', name: 'Italian' },
+  { code: 'US', name: 'American' },
+  { code: 'UN', name: 'International' },
+  { code: 'FR', name: 'French' },
+  { code: 'AS', name: 'Asian' },
+  { code: 'CN', name: 'Chinese' },
+  { code: 'DE', name: 'German' },
+  { code: 'MX', name: 'Mexican' },
+  { code: 'GL', name: 'Global' },
+  { code: 'IN', name: 'Indian/Mexican Fusion' },
+  { code: 'US', name: 'Hawaiian' },
+  { code: 'UN', name: 'Seafood' },
+  { code: 'ES', name: 'Spanish' },
+  { code: 'US', name: 'Cajun/Creole' },
+  { code: 'CU', name: 'Cuban' },
+  { code: 'PT', name: 'Portuguese' },
+];
